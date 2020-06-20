@@ -1,7 +1,7 @@
 # SimpleCalculator
 
-![Home Screen](/images/Home.png)
+Coded using Swift
 
-## Demo of the app working:
+## Demo:
 
 ![Demo](/images/demo.gif)
